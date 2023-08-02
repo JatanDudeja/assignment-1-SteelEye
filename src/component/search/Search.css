@@ -1,0 +1,14 @@
+.small{
+    width: 60px;
+    background-color: rgb(164, 164, 244);
+}
+
+.medium{
+    width: 200px;
+    background-color: rgb(249, 153, 153);
+}
+
+.large{
+    width: 400px;
+    background-color: rgb(138, 240, 141);
+}

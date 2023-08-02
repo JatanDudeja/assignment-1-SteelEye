@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+/* Cards Conntainer Classes Added Because it was of full length by defualt commnent these classes to see the difference */
+.cards-containter{
+  display: flex;
+  flex-direction: row;
+}
+
+.cards-containter>div{
+  width: 50%;
+}
+
